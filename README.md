@@ -1,5 +1,5 @@
 # rombasic
-linktree:
+My linktree:
 [dA](https://www.deviantart.com/arleenconroy)
 [YT](https://www.youtube.com/channel/UCeADT00Qq2Trvdd2MLlQY6A)
 [KA](https://krita-artists.org/u/arleen_lasleur)
@@ -11,4 +11,4 @@ linktree:
   
 windows tools/custo install scripts.  
   
-https://github.com/ChrisTitusTech/win10script
+`https://github.com/ChrisTitusTech/win10script`
