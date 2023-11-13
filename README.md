@@ -10,5 +10,10 @@ My linktree:
 [YT Live](https://www.youtube.com/channel/UCUtkG45t9PhifJjnzuKnLCg)
   
 windows tools/custo install scripts.  
-  
 `https://github.com/ChrisTitusTech/win10script`
+
+Hashtor:  
+`https://disk.yandex.ru/d/EPd4aUMWzv2aSQ`  
+`https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI`
+  
+
