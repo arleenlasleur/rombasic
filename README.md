@@ -10,7 +10,7 @@ My linktree:
 [YT Live](https://www.youtube.com/channel/UCUtkG45t9PhifJjnzuKnLCg)
 [DS](https://discord.gg/D9xdx2hfyR)
 [TG](https://t.me/arleentg)
-[TG@http](https://city416.ru/arleen)
+[TG@http](http://city416.ru/arleen)
   
 windows tools/custo install scripts.  
 `https://github.com/ChrisTitusTech/win10script`
