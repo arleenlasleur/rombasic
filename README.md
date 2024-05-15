@@ -1,5 +1,7 @@
 # rombasic
-My linktree:
+int18 for empty pc.  
+
+My linktree:  
 [boosty](https://www.boosty.to/arleenlasleur)
 [DA](https://www.deviantart.com/arleenconroy)
 [YT](https://www.youtube.com/channel/UCeADT00Qq2Trvdd2MLlQY6A)
@@ -12,11 +14,9 @@ My linktree:
 [TG](https://t.me/arleentg)
 [TG@http](http://city416.ru/arleen)
   
-windows tools/custo install scripts.  
+windows tools/custom installs:  
 `https://github.com/ChrisTitusTech/win10script`
 
 Hashtor:  
 `https://disk.yandex.ru/d/EPd4aUMWzv2aSQ`  
-`https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI`
-  
-
+`https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI`  
