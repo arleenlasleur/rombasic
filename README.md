@@ -1,5 +1,4 @@
 # rombasic
-int18 for empty pc.  
 
 My linktree:  
 [boosty](https://www.boosty.to/arleenlasleur)
@@ -15,8 +14,8 @@ My linktree:
 [TG@http](http://city416.ru/arleen)
   
 windows tools/custom installs:  
-`https://github.com/ChrisTitusTech/win10script`
+[https://github.com/ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script)
 
 Hashtor:  
-`https://disk.yandex.ru/d/EPd4aUMWzv2aSQ`  
-`https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI`  
+[YD](https://disk.yandex.ru/d/EPd4aUMWzv2aSQ) [GD](https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI)  
+
