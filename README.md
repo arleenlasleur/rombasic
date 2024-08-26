@@ -17,5 +17,4 @@ windows tools/custom installs:
 [https://github.com/ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script)
 
 Hashtor:  
-[YD](https://disk.yandex.ru/d/EPd4aUMWzv2aSQ) [GD](https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI)  
-
+[YD](https://disk.yandex.ru/d/EPd4aUMWzv2aSQ) [GD](https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI) 1F89550B7DCB1DC9C17E959D91EBA83F837171C9  
