@@ -17,6 +17,6 @@ windows tools/custom installs:
 [https://github.com/ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script)
 
 Hashtor: [YD](https://disk.yandex.ru/d/EPd4aUMWzv2aSQ) [GD](https://drive.google.com/drive/folders/1-1fkJQ03H5La_evWuG1D-uKpt1OnY6dI)  
-RT xz:  5CD8FE017EAF42AED17AC44849C4C98BBE5862A4
+RT xz:  5CD8FE017EAF42AED17AC44849C4C98BBE5862A4  
         1F89550B7DCB1DC9C17E959D91EBA83F837171C9  
 TPB gz: 938802790A385C49307F34CCA4C30F80B03DF59C  
